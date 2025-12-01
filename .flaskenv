@@ -1,0 +1,7 @@
+FLASK_APP=app:app
+SECRET_KEY=sua-palavra-secreta
+DB_USERNAME=usuario_do_banco
+DB_PASSWORD=senha_do_banco
+DB_HOST=host_do_banco
+DB_DATABASE=nome_do_banco
+DB_PORT=porta_do_banco
